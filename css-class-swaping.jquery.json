@@ -1,0 +1,27 @@
+{
+    "name": "css-class-swaping",
+    "version": "1.0.0",
+    "title": "css-class-swaping",
+    "author": {
+        "name": "sunilkushwaha01",
+        "email": "sonukushwaha01@gmail.com",
+        "url": "https://github.com/sunilkushwaha01"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "dependencies": {
+        "jquery": "~1.7"
+    },
+    "description": "This is use full to swap a css class.",
+    "keywords": [
+        "jquery",
+        "css",
+        "swap"
+    ],
+    "homepage": "https://github.com/sunilkushwaha01/css-class-swaping",
+    "docs": "https://github.com/sunilkushwaha01/css-class-swaping/blob/master/README.md"
+}
